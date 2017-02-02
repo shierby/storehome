@@ -278,8 +278,9 @@ p.loadmore {
 
 .subscribe {
     text-align: center;
-    vert-align: middle;
     background-image: url("../img/design_03.gif");
+    background-repeat: no-repeat;
+    background-position: center;
     font-family: 'Lato', sans-serif;
     width: 100%;
     height: 287px;

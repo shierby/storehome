@@ -15,7 +15,7 @@ const Header = () => {
       <div className="container">
         <footer className="mdl-mini-footer for_header">
           <div className="mdl-mini-footer__left-section">
-            <div className="mdl-logo header_logo ">C&B</div>
+            <div className="mdl-logo header_logo "></div>
           </div>
           <div className="mdl-mini-footer__center-section">
 

@@ -280,6 +280,7 @@ p.loadmore {
     text-align: center;
     background-image: url("../img/design_03.gif");
     background-repeat: no-repeat;
+    background-size: cover;
     background-position: center;
     font-family: 'Lato', sans-serif;
     width: 100%;

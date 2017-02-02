@@ -13,7 +13,7 @@ const Footer = () => {
       <div className="container">
         <footer className="mdl-mini-footer">
           <div className="mdl-mini-footer__left-section">
-            <div className="mdl-logo footer_logo">C&B</div>
+            <div className="mdl-logo footer_logo"></div>
           </div>
           <div className="mdl-mini-footer__center-section">
 

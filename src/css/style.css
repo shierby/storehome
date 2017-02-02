@@ -128,12 +128,15 @@
 }
 
 .header_logo{
-    font-size: 52px;
-    font-family: "GFS Didot";
-    color: rgb( 51, 51, 51 );
-    font-weight: bold;
-    text-transform: uppercase;
-    text-align: left;
+    background-image: url("../img/design_03.png");
+    width:94px;
+    height: 39px;
+    afont-size: 52px;
+    afont-family: "GFS Didot";
+    acolor: rgb( 51, 51, 51 );
+    afont-weight: bold;
+    atext-transform: uppercase;
+    atext-align: left;
 }
 
 .for_header {
@@ -395,11 +398,14 @@ input.email_input {
 }
 
 .footer_logo{
-    font-size: 52px;
-    font-family: "GFS Didot";
-    color: rgb( 51, 51, 51 );
-    font-weight: bold;
-    text-transform: uppercase;
+    background-image: url("../img/design_03.png");
+    width:94px;
+    height: 39px;
+    afont-size: 52px;
+    afont-family: "GFS Didot";
+    acolor: rgb( 51, 51, 51 );
+    afont-weight: bold;
+    atext-transform: uppercase;
 }
 
 a.active {
